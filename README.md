@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am working from home<br>I'm currently learning Java<br>I'm interested in Cyber Security
 
+---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/h%C3%BCseyin-ince/) 
