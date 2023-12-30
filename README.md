@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working from home<br>I'm currently learning Python<br>I'm interested in Cyber Security
+Arbeite von Zuhause<br>I'm currently learning Python<br>I'm interested in Cyber Security
 
 ---
 
